@@ -14,4 +14,7 @@ Features
 How to Run
 1. Open terminal or command prompt  
 2. Navigate to the folder where main.py is saved  
-3. Run the program using:
+3. Run the program using: python
+
+Name: Avantika
+Registration number:25MIP10025
